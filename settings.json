@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "VOLTPVP24/7PVPSERVER"
     },
     "anti-afk": {
       "enabled": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "WAIT",
+    "webhookUrl": "https://discord.com/api/webhooks/1517684789006831636/1mf8LSraTe3j0QAZ207k6BaPEOZXW5m-lUBjVSpER8qGNvLjvt1Y0ZsdU4inx0-KhZ89",
     "events": {
       "connect": true,
       "disconnect": true,
